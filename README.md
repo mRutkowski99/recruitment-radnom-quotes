@@ -1,6 +1,6 @@
 # Recruitment Task #3 - Random quote generator
 User is able to:
-- See random generated quoted getched from API
+- See random generated quoted fetched from API
 - See loading state message
 - See modal widnow if fetch error occurs
 - Generate new quote by clicking a button
