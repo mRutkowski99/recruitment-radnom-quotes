@@ -7,6 +7,8 @@ User is able to:
 - See previously generated quote by clicking a button
 - See disabled state of 'previous' button when previous quote hasn't been already generated (first quote) or previous quote is already displayed
 
+[Live version](https://mrutkowski99.github.io/recruitment-radnom-quotes/)
+
 ## Available Scripts
 
 In the project directory, you can run:
