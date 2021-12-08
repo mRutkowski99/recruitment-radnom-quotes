@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/recruitment-radnom-quotes/static/js/main.df2ad6f8.chunk.js",
+    "main.js.map": "/recruitment-radnom-quotes/static/js/main.df2ad6f8.chunk.js.map",
+    "runtime-main.js": "/recruitment-radnom-quotes/static/js/runtime-main.65828c32.js",
+    "runtime-main.js.map": "/recruitment-radnom-quotes/static/js/runtime-main.65828c32.js.map",
+    "static/js/2.fcd83cfb.chunk.js": "/recruitment-radnom-quotes/static/js/2.fcd83cfb.chunk.js",
+    "static/js/2.fcd83cfb.chunk.js.map": "/recruitment-radnom-quotes/static/js/2.fcd83cfb.chunk.js.map",
+    "index.html": "/recruitment-radnom-quotes/index.html",
+    "static/js/2.fcd83cfb.chunk.js.LICENSE.txt": "/recruitment-radnom-quotes/static/js/2.fcd83cfb.chunk.js.LICENSE.txt",
+    "static/media/quote-left-svgrepo-com.3dcd228c.svg": "/recruitment-radnom-quotes/static/media/quote-left-svgrepo-com.3dcd228c.svg",
+    "static/media/quote-right-svgrepo-com.200a6a76.svg": "/recruitment-radnom-quotes/static/media/quote-right-svgrepo-com.200a6a76.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65828c32.js",
+    "static/js/2.fcd83cfb.chunk.js",
+    "static/js/main.df2ad6f8.chunk.js"
+  ]
+}
